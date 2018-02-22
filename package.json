@@ -1,7 +1,7 @@
 {
   "name": "30SecondsOfCode",
   "version": "1.0.0",
-  "description": "巧妙实用的Js代码段",
+  "description": "learn coding",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
