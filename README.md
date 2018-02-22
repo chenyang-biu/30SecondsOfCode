@@ -1,2 +1,1 @@
-# 30SecondsOfCode
-巧妙实用的Js代码段
+# [30SecondsOfCode](https://30secondsofcode.org/)
